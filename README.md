@@ -7,4 +7,3 @@ Buy order rule: quality must be greater than zero
 
 Added the sell feature Successfully
 
-mistakenly commited
